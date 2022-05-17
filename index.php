@@ -1,4 +1,4 @@
- <?php
+<?php
 
 require_once('app/core/init.php');
 if(isset($_POST['submit'])) {
@@ -83,7 +83,7 @@ input[type=number]:focus,
     outline: none !important;
     border: none;
     border-radius: 18px;
-    box-shadow: 2px 3px 0 2px rgb(0 0 0), 0 0 0 2px rgb(0 0 0) !important;
+    box-shadow: 5px 6px 0 2px rgb(0 0 0), 0 0 0 2px rgb(0 0 0) !important;
 }
 img.emoji {
    height: 1em;
